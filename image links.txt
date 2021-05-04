@@ -1,0 +1,22 @@
+https://www.cricketcountry.com/wp-content/uploads/2019/03/ViratKohli2ndODINagpur.jpg
+
+https://images.outlookindia.com/public/uploads/articles/2020/12/2/AP_20337227419857_571_855.jpg
+
+https://images.outlookindia.com/public/uploads/articles/2019/6/11/kohli_630_630.jpg
+
+https://www.deccanherald.com/sites/dh/files/article_images/2019/10/11/Virat%20Kohli-1570788593.jpg
+
+https://cdn.insidesport.co/wp-content/uploads/2021/03/03102702/virat-kohli-surpasses-tendulkar-sehwag-for-record-double-hundreds.jpg
+
+https://www.mykhel.com/img/2018/08/viratkohli-cropped_13hpvdvje4en41uyiv3m5amlw1.jpg
+
+https://c4.wallpaperflare.com/wallpaper/18/799/669/sports-cricket-wallpaper-preview.jpg
+
+https://www.mykhel.com/img/2021/03/virat-kohli-t20i-fifty950-1615973084.jpg
+
+https://c.ndtvimg.com/2020-03/bthb68ug_virat-kohli-afp_625x300_27_March_20.jpg?q=60
+
+-moz-     /* Firefox and other browsers using Mozilla's browser engine */
+-webkit-  /* Safari, Chrome and browsers using the Webkit engine */
+-o-       /* Opera */
+-ms-      /* Internet Explorer (but not always) */ 
